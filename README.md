@@ -22,7 +22,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Eduardo" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/301650843_630701841738360_154621963671714747_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeFl7jwJIXixAlmHUnZJ6k07d_VsKcjaUlt39WwpyNpSW4Sq_LyRZrBkJ7usi_DrB37B0uVm_MpfoEiYRYtXg09d&_nc_ohc=0UKprV_vs2gAX9PkyEs&_nc_oc=AQkEZ4USxpMNUePksi3HqrKZ4WqBnhGl7FwWIFen9okjuT3JoeRk8AaqTjMN5w_fl9I&_nc_ht=scontent-gru2-2.xx&oh=00_AT8XKaa-7zsxLv2wAo1CPYpYdFOH7NZ9pIS4sYA9nUb3EA&oe=630EBC71">
+  <img align="right" alt="Eduardo" height="150" style="border-radius:50px;" src="https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/302109927_631471241661420_8375086616258838649_n.jpg?stp=dst-jpg_p206x206&_nc_cat=100&ccb=1-7&_nc_sid=e33968&_nc_eui2=AeGY31nVG9ttSPaItvz6FrSiNwOyuuwuFbw3A7K67C4VvLH5hk6b5Ttz3SID7ACijP3FHYuLm85E55iD9rTe9-C_&_nc_ohc=tjAxm6GiRAoAX9XqncY&_nc_ht=scontent-gru1-2.xx&oh=00_AT_0McaWuCL0-47aGxLiOZScrA9G7IoMkp_SMPij33qbaw&oe=631038F0">
 </div>
 
  ##
